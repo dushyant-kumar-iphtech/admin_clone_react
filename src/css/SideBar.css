@@ -1,0 +1,24 @@
+.home {
+  background-color: white;
+  height: 100vh;
+}
+
+.container:hover {
+  background: #f0f1fd;
+}
+.container:hover .icon {
+  color: rgb(50, 88, 210);
+}
+.container:hover .sideTitle {
+  color: black;
+}
+
+.sideTitle {
+  margin-left: 1vw;
+  color: lightslategray;
+  vertical-align: middle;
+  border: 2px saddlebrown;
+}
+.link {
+  text-decoration: none;
+}

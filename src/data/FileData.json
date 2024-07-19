@@ -1,0 +1,23 @@
+{
+  "Work": [
+    { "id": 1, "title": "uiUX", "value": 12 },
+    { "id": 2, "title": "Design", "value": 100 },
+    { "id": 3, "title": "Mobile", "value": 54 },
+    { "id": 4, "title": "Illustration", "value": 20 },
+    { "id": 5, "title": "Art", "value": 80 }
+  ],
+  "Private": [
+    { "id": 1, "title": "uiUX", "value": 21 },
+    { "id": 2, "title": "Design", "value": 30 },
+    { "id": 3, "title": "Mobile", "value": 74 },
+    { "id": 4, "title": "Illustration", "value": 29 },
+    { "id": 5, "title": "Art", "value": 70 }
+  ],
+  "Social": [
+    { "id": 1, "title": "uiUX", "value": 23 },
+    { "id": 2, "title": "Design", "value": 600 },
+    { "id": 3, "title": "Mobile", "value": 504 },
+    { "id": 4, "title": "Illustration", "value": 120 },
+    { "id": 5, "title": "Art", "value": 60 }
+  ]
+}

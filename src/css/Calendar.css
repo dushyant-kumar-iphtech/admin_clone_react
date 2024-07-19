@@ -1,0 +1,51 @@
+.react-calendar {
+  width: 100%;
+  max-width: 100%;
+  background: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.react-calendar__navigation__label {
+  text-align: center;
+  flex: 1;
+}
+.react-calendar__navigation button {
+  min-width: 8px;
+  background: none;
+  border: none;
+
+  margin: 0 5px;
+  cursor: pointer;
+}
+.react-calendar__tile--active {
+  background: #546efe;
+  color: white;
+  border-radius: 50%; /* Make the selected date circular */
+}
+/*kefhewfhejfherjf*/
+.react-calendar__month-view__weekdays {
+  height: 2em; /* Adjust this value as needed */
+}
+
+/* Adjust the height of each date tile */
+.react-calendar__tile {
+  height: 2em; /* Adjust this value as needed */
+  padding: 0.25em; /* Reduce padding inside tiles */
+  margin: 0.1em; /* Reduce margin between tiles */
+}
+
+/* Adjust the height of the navigation bar (month/year selector) */
+.react-calendar__navigation {
+  height: 1.5em; /* Adjust this value as needed */
+}
+
+.react-calendar__navigation__label {
+  font-size: 1em; /* Adjust font size */
+}
+
+.react-calendar__navigation button {
+  min-width: 1em; /* Adjust button width */
+}
